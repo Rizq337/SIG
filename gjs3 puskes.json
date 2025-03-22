@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Umbulharjo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.397146, -7.794683]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Gondokusuman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.372701, -7.781214]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Wirobrajan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.434230, -7.788270]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Kotagede"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.357790, -7.832560]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Sleman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.446900, -7.861850]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Bantul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.302680, -7.937000]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Gunungkidul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.505320, -7.969220]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Kulon Progo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.098740, -7.677530]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Arjosari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.416320, -7.813450]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Muntiharjo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.411230, -7.803460]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Ngaglik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.352130, -7.825600]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Sewon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.313540, -7.907350]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Srandakan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.290200, -7.965480]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Prambanan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.525600, -7.786510]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Kasihan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.392000, -7.859000]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Jetis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.437890, -7.765840]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Mlati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.391230, -7.804150]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Gamping"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.494320, -7.920540]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Girimarto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.362800, -7.920300]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Depok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.438700, -7.809600]
+      }
+    }
+  ]
+}
