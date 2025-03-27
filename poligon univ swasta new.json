@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Ahmad Dahlan (UAD)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [110.4085, -7.7830],
+            [110.4090, -7.7835],
+            [110.4095, -7.7830],
+            [110.4090, -7.7825],
+            [110.4085, -7.7830]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Islam Indonesia (UII)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [110.4020, -7.7700],
+            [110.4030, -7.7705],
+            [110.4035, -7.7700],
+            [110.4030, -7.7695],
+            [110.4020, -7.7700]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Muhammadiyah Yogyakarta (UMY)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [110.4200, -7.7900],
+            [110.4210, -7.7905],
+            [110.4215, -7.7900],
+            [110.4210, -7.7895],
+            [110.4200, -7.7900]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Atma Jaya Yogyakarta (UAJY)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [110.4120, -7.7750],
+            [110.4130, -7.7755],
+            [110.4135, -7.7750],
+            [110.4130, -7.7745],
+            [110.4120, -7.7750]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Sanata Dharma (USD)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [110.3800, -7.7600],
+            [110.3810, -7.7605],
+            [110.3815, -7.7600],
+            [110.3810, -7.7595],
+            [110.3800, -7.7600]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas PGRI Yogyakarta (UPY)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [110.3900, -7.8200],
+            [110.3910, -7.8205],
+            [110.3915, -7.8200],
+            [110.3910, -7.8195],
+            [110.3900, -7.8200]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Mercu Buana Yogyakarta (UMBY)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [110.3700, -7.8300],
+            [110.3710, -7.8305],
+            [110.3715, -7.8300],
+            [110.3710, -7.8295],
+            [110.3700, -7.8300]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Teknologi Yogyakarta (UTY)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [110.3500, -7.8400],
+            [110.3510, -7.8405],
+            [110.3515, -7.8400],
+            [110.3510, -7.8395],
+            [110.3500, -7.8400]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Kristen Duta Wacana (UKDW)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [110.3850, -7.7700],
+            [110.3860, -7.7705],
+            [110.3865, -7.7700],
+            [110.3860, -7.7695],
+            [110.3850, -7.7700]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Widya Mataram (UWM)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [110.3650, -7.8100],
+            [110.3660, -7.8105],
+            [110.3665, -7.8100],
+            [110.3660, -7.8095],
+            [110.3650, -7.8100]
+          ]
+        ]
+      }
+    }
+  ]
+}
