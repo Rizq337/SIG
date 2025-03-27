@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Gondokusuman I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.384, -7.800]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Gedongtengen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.360, -7.789]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Jetis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.363, -7.783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Tegalrejo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.358, -7.780]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Wirobrajan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.355, -7.810]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Pakualaman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.372, -7.800]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Umbulharjo I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.390, -7.815]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Kotagede I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.397, -7.816]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Danurejan I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.370, -7.797]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Ngampilan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.364, -7.805]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Sewon I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.356, -7.873]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Kasihan I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.328, -7.842]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Banguntapan II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.408, -7.814]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Gamping I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.325, -7.795]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Depok II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.400, -7.762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Mlati I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.350, -7.730]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Ngaglik I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.400, -7.746]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Sentolo I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.188, -7.843]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Wates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.150, -7.865]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Wonosari I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.602, -7.965]
+      }
+    }
+  ]
+}
