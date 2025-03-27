@@ -110,7 +110,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Universitas Nahdlatul Ulama Yogyakarta (UNUY)"
+        "name": "Universitas Ahmad Dahlan (UAD)"
       },
       "geometry": {
         "coordinates": [
@@ -143,7 +143,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "STIE Widya Wiwaha"
+        "name": "universitas kristen duta wacana (UKDW)"
       },
       "geometry": {
         "coordinates": [
@@ -212,7 +212,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Universitas Ahmad Dahlan (UAD)"
+        "name": "STMM MMTC"
       },
       "geometry": {
         "coordinates": [
@@ -245,7 +245,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Universitas Kristen Duta Wacana (UKDW)"
+        "name": "Limasan UNU yogyakarta"
       },
       "geometry": {
         "coordinates": [
@@ -278,7 +278,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "STMM MMTC"
+        "name": "STIE Widya Wiwaha"
       },
       "geometry": {
         "coordinates": [
